@@ -44,16 +44,15 @@ I started software engineering because I am passionate about creating robust sys
 
 ---
 
-### 🚧 Projects Portfolio
+## 🛠️ Projects Portfolio
 
-> ✅ Highlight your projects here  
-> (I will help you craft strong, job-ready descriptions!)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| Airbnb Clone Backend | A scalable backend system for property bookings | Python · Django · REST |
-| API Service Starter | Secure API foundation with auth and CRUD | Django REST Framework |
-| Postgres Automation Script | Backend performance optimization tools | Python · SQL |
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| Airbnb Clone Backend | Built a scalable backend for a property-booking platform: handles listings, user roles (guest/host), reservations, search & filter, booking logic. | Python · Django · Django REST Framework · PostgreSQL |
+| Airbnb Database Design | Designed a full relational database schema for the Airbnb-style backend: normalized tables, relationships (User, Listing, Reservation, Review, Payment), indexing for performance. | SQL · PostgreSQL |
+| Airbnb Project Documentation | Complete documentation for the Airbnb clone: API endpoints spec, ER diagrams, sequence diagrams, deployment plan — bridging planning to implementation. | Markdown · Diagrams · GitHub Pages |
+| Inventory Management System | Developed an inventory-tracking backend: manage items, stock levels, CRUD operations, and reporting functionality for business use. | Python · SQLite/PostgreSQL · REST API |
+| Intro to DB Project | A foundational project to solidify database fundamentals: created tables, joins, constraints and wrote complex queries to manipulate and retrieve data. | Python · SQL (SQLite / MySQL / PostgreSQL) |
 
 ---
 
